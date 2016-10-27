@@ -7,7 +7,7 @@ The is a Maven Project that consists of:
 
 created with:
 * Maven Archetype: quickstart
-* Java version 1.8
+* Java version: 1.8
 
 Created by
 Mbuso Khoza
